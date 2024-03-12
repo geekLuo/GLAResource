@@ -9,34 +9,34 @@
 		<key>BaseButtonCorner</key>
 		<string>4</string>
 		<key>BaseContentBackGroundCorner</key>
-		<string>7.5</string>
+		<string>0</string>
 		<key>BaseTextFieldCorner</key>
 		<string>4</string>
 	</dict>
 	<key>colors</key>
 	<dict>
 		<key>color_text_common</key>
-		<string>#505050</string>
+		<string>#8D5E66</string>
 		<key>color_edit</key>
-		<string>#505050</string>
+		<string>#8D5E66</string>
 		<key>color_title_text</key>
-		<string>#505050</string>
+		<string>#6F87CE</string>
 		<key>color_edit_hint</key>
-		<string>#cacaca</string>
+		<string>#CACACA</string>
 		<key>color_underline</key>
-		<string>#cacaca</string>
+		<string>#CACACA</string>
 		<key>color_base_btn_text</key>
 		<string>#FFFFFF</string>
 		<key>color_tip</key>
-		<string>#BC9600</string>
+		<string>#52B943</string>
 		<key>color_base</key>
-		<string>#289EE3 </string>
+		<string>#63749A</string>
 		<key>color_base_white_btn_text</key>
-		<string>#289EE3 </string>
+		<string>#63749A</string>
 		<key>color_privacy_policy</key>
 		<string>#888888</string>
 		<key>color_privacy_tip</key>
-		<string>#289EE3</string>
+		<string>#52B943</string>
 		<key>color_visitor_login_text</key>
 		<string>#e9b500</string>
 		<key>color_account_login_text</key>
@@ -50,9 +50,9 @@
 		<key>color_slider_bg</key>
 		<string>#e6eef1</string>
 		<key>color_select_account_text</key>
-		<string>#505050</string>
+		<string>#6F87CE</string>
 		<key>color_base_bg</key>
-		<string>#FFFFFF</string>
+		<string>#00000000</string>
 	</dict>
 </dict>
 </plist>

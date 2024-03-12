@@ -15,5 +15,9 @@ Pod::Spec.new do |s|
     res2.resource = 'ResourceCodeA/*.{bundle}'
   end
   
+    s.subspec 'ResourceQY' do |res3|
+    res3.resource = 'ResourceQY/*.{bundle}'
+  end
+  
   s.license      = { :type => "MIT", :file => "FILE_LICENSE" }
 end
